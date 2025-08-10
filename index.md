@@ -17,8 +17,9 @@ I like simplicity in software and in things outside of work. I try to be intenti
 
 ### Lest not forget couple of things
 
-* RFS for Internet Protocol circa 1981 [https://datatracker.ietf.org/doc/html/rfc791#section-1]
+* (RFC for something called the "Internet Protocol"; circa 1981)[https://datatracker.ietf.org/doc/html/rfc791#section-1]
 
 * And this comic from xkcd.com
+
   ![Dependency](https://imgs.xkcd.com/comics/dependency.png)
   <small>From [xkcd.com](https://xkcd.com/2347/)</small>
