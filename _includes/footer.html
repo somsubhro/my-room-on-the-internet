@@ -1,5 +1,23 @@
 <footer class="site-footer">
   <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Built with ❤️ and Jekyll.</p>
   <p><a href="https://github.com/{{ site.github_username }}">GitHub</a></p>
-  <p>My room on the internet</p>
 </footer>
+
+<style>
+  .site-footer {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8; /* light gray background */
+  }
+  .site-footer a {
+    color: #0366d6; /* GitHub blue */
+    text-decoration: none;
+  }
+  .site-footer a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<!-- Load Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
