@@ -3,9 +3,7 @@ title: "Learnings as a AWS Technical Program Manager (from Medium archives)"
 date: 2020-04-17
 ---
 
-> In this piece, I share my learnings with the hope that this will be useful for aspiring candidates to know what we expect from them.
-
-`This writing is from 2020`
+> In this writing from 2020, I share my learnings with the hope that this will be useful for aspiring candidates to know what we expect from them.
 
 I am a Technical Program Manager within AWS Commerce Platform. This team is responsible for building billing models, payments services, and cost and usage services that our customers use. Given the type and volume of data we deal with, we have an inviolable responsibility to not eff-up and do better than the day before. This responsibility leads to a relentless focus on operational excellence, and to develop and deploy secure, scalable, available services. Below are some details on how this responsibility transpires into real-world actions.
 
