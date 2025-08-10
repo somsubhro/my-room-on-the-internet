@@ -14,3 +14,5 @@ I like simplicity in software and in things outside of work. I try to be intenti
 * [Fundamentals of cloud migration](https://acloudguru.com/blog/business/the-fundamentals-of-cloud-migration)
 * [Building cloud fluency for everyone](https://acloudguru.com/blog/business/how-to-build-a-cloud-fluency-program-for-everyone)
 * [Transforming DevOps ar Broadridge on AWS](https://aws.amazon.com/blogs/devops/transforming-devops-for-a-fintech-on-aws/) 
+
+https://imgs.xkcd.com/comics/dependency.png
