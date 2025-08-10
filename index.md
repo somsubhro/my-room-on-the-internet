@@ -15,9 +15,11 @@ I like simplicity in software and in things outside of work. I try to be intenti
 * [Building cloud fluency for everyone](https://acloudguru.com/blog/business/how-to-build-a-cloud-fluency-program-for-everyone)
 * [Transforming DevOps ar Broadridge on AWS](https://aws.amazon.com/blogs/devops/transforming-devops-for-a-fintech-on-aws/) 
 
-### Let's not forget couple of things
+### Let's not forget few things
 
 * [RFC for something called the "Internet Protocol"; circa 1981](https://datatracker.ietf.org/doc/html/rfc791#section-1)
+
+* [Day 1 of cloud computing](https://press.aboutamazon.com/news-releases/news-release-details/amazoncom-launches-web-services)
 
 * And this comic from xkcd.com
 
